@@ -16,6 +16,7 @@
 [![license][license-badge]][license-url]
 [![travis][travis-badge]][travis-url]
 [![codeclimate][codeclimate-badge]][codeclimate-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftimwangdev%2Freact-native-material-textfield.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftimwangdev%2Freact-native-material-textfield?ref=badge_shield)
 
 Material texfield with consistent behaviour on iOS and Android
 
@@ -132,3 +133,6 @@ npm run ios # or npm run android
 BSD License
 
 Copyright 2017 Alexander Nazarov. All rights reserved.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftimwangdev%2Freact-native-material-textfield.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftimwangdev%2Freact-native-material-textfield?ref=badge_large)
